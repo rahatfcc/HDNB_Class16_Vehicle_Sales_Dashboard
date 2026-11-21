@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/car_prices.csv
+.venv/
